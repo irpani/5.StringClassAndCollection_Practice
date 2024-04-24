@@ -1,6 +1,7 @@
 package _0.Arrays;
 /*
 1.Array Overview
+Array is a Collectio Of Similar DataType
 2.Adv/disadvntage of Java Array
 
 3.Types of Array in java
